@@ -1,11 +1,3 @@
-//       *************************
-//       Dados inciais do cliente:
-
-//        Nome: Caio Martins
-//        Saldo inicial: R$ 2.500,00
-//       ***************************
-
-
 import java.util.Scanner;
 
 public class Main {
